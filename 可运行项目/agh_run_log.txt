@@ -1,0 +1,159 @@
+2026-10-13 20:38:34,914 [INFO] 开始执行 main()
+2026-10-13 20:38:34,915 [INFO] AGH注册工具: calc_priority
+2026-10-13 20:38:34,915 [INFO] AGH注册工具: health_evaluate
+2026-10-13 20:38:34,915 [INFO] ===== 大学生生活管家启动 =====
+2026-10-13 20:38:34,915 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 20:38:34,916 [INFO] recommend_meals(早餐) 推荐 3 项
+2026-10-13 20:38:34,916 [INFO] recommend_meals(午餐) 推荐 3 项
+2026-10-13 20:38:34,916 [INFO] recommend_meals(晚餐) 推荐 3 项
+2026-10-13 20:38:34,916 [INFO] health_evaluate 评估: 低风险 (score=0.00)
+2026-10-13 20:38:34,916 [INFO] daily_summary 生成完成
+2026-10-13 20:38:34,916 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 20:38:34,917 [INFO] recommend_meals(早餐) 推荐 3 项
+2026-10-13 20:38:34,917 [INFO] recommend_meals(午餐) 推荐 3 项
+2026-10-13 20:38:34,917 [INFO] recommend_meals(晚餐) 推荐 3 项
+2026-10-13 20:38:34,927 [INFO] calc_priority 处理 3 条待办
+2026-10-13 20:38:34,927 [INFO] health_evaluate 评估: 低风险 (score=0.00)
+2026-10-13 20:38:34,927 [INFO] daily_summary 生成完成
+2026-10-13 20:38:34,927 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 20:38:34,927 [INFO] recommend_meals(早餐) 推荐 3 项
+2026-10-13 20:38:34,927 [INFO] recommend_meals(午餐) 推荐 3 项
+2026-10-13 20:38:34,927 [INFO] recommend_meals(晚餐) 推荐 3 项
+2026-10-13 20:38:34,927 [INFO] calc_priority 处理 3 条待办
+2026-10-13 20:38:34,927 [INFO] health_evaluate 评估: 低风险 (score=0.00)
+2026-10-13 20:38:34,927 [INFO] daily_summary 生成完成
+2026-10-13 20:38:34,928 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 20:38:34,928 [INFO] recommend_meals(早餐) 推荐 3 项
+2026-10-13 20:38:34,928 [INFO] recommend_meals(午餐) 推荐 3 项
+2026-10-13 20:38:34,928 [INFO] recommend_meals(晚餐) 推荐 3 项
+2026-10-13 20:38:34,928 [INFO] calc_priority 处理 3 条待办
+2026-10-13 20:38:34,928 [INFO] health_evaluate 评估: 低风险 (score=0.00)
+2026-10-13 20:38:34,928 [INFO] daily_summary 生成完成
+2026-10-13 20:38:34,928 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 20:38:34,928 [INFO] recommend_meals(早餐) 推荐 5 项
+2026-10-13 20:38:34,928 [INFO] recommend_meals(午餐) 推荐 5 项
+2026-10-13 20:38:34,928 [INFO] recommend_meals(晚餐) 推荐 5 项
+2026-10-13 20:38:34,928 [INFO] calc_priority 处理 3 条待办
+2026-10-13 20:38:34,929 [INFO] health_evaluate 评估: 高风险 (score=7.00)
+2026-10-13 20:38:34,929 [INFO] daily_summary 生成完成
+2026-10-13 20:38:34,929 [INFO] 用户输入quit，退出程序
+2026-10-13 20:38:34,929 [INFO] ===== 程序结束 =====
+2026-10-13 20:49:15,257 [INFO] calc_priority 处理 2 条待办
+2026-10-13 20:49:15,257 [INFO] health_evaluate 评估: 低风险 (score=1.50)
+2026-10-13 20:49:15,258 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 20:49:15,258 [INFO] recommend_meals(早餐) 推荐 3 项
+2026-10-13 20:49:15,258 [INFO] daily_summary 生成完成
+2026-10-13 20:49:15,258 [INFO] calc_priority 处理 1 条待办
+2026-10-13 20:49:15,258 [INFO] health_evaluate 评估: 中风险 (score=3.00)
+2026-10-13 20:49:15,258 [INFO] health_evaluate 评估: 低风险 (score=1.50)
+2026-10-13 20:49:15,258 [INFO] recommend_meals(不存在的餐) 推荐 2 项
+2026-10-13 20:49:15,258 [INFO] calc_priority 处理 1 条待办
+2026-10-13 20:49:15,258 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 21:02:11,015 [INFO] [--check] 开始自检
+2026-10-13 21:02:11,023 [INFO] calc_priority 处理 2 条待办
+2026-10-13 21:02:11,023 [INFO] health_evaluate 评估: 低风险 (score=1.50)
+2026-10-13 21:02:11,023 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 21:02:11,023 [INFO] recommend_meals(早餐) 推荐 3 项
+2026-10-13 21:02:11,023 [INFO] daily_summary 生成完成
+2026-10-13 21:02:11,527 [INFO] calc_priority 处理 2 条待办
+2026-10-13 21:02:11,527 [INFO] health_evaluate 评估: 低风险 (score=1.50)
+2026-10-13 21:02:11,527 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 21:02:11,528 [INFO] recommend_meals(早餐) 推荐 3 项
+2026-10-13 21:02:11,528 [INFO] daily_summary 生成完成
+2026-10-13 21:02:11,528 [INFO] calc_priority 处理 1 条待办
+2026-10-13 21:02:11,528 [INFO] health_evaluate 评估: 中风险 (score=3.00)
+2026-10-13 21:02:11,528 [INFO] health_evaluate 评估: 低风险 (score=1.50)
+2026-10-13 21:02:11,528 [INFO] recommend_meals(不存在的餐) 推荐 2 项
+2026-10-13 21:02:11,528 [INFO] calc_priority 处理 1 条待办
+2026-10-13 21:02:11,528 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 21:02:15,674 [INFO] [--demo] 执行演示数据
+2026-10-13 21:02:15,674 [INFO] AGH注册工具: calc_priority
+2026-10-13 21:02:15,674 [INFO] AGH注册工具: health_evaluate
+2026-10-13 21:02:15,675 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 21:02:15,675 [INFO] recommend_meals(早餐) 推荐 3 项
+2026-10-13 21:02:15,675 [INFO] recommend_meals(午餐) 推荐 3 项
+2026-10-13 21:02:15,675 [INFO] recommend_meals(晚餐) 推荐 3 项
+2026-10-13 21:02:15,675 [INFO] health_evaluate 评估: 低风险 (score=0.00)
+2026-10-13 21:02:15,675 [INFO] daily_summary 生成完成
+2026-10-13 21:02:15,675 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 21:02:15,675 [INFO] recommend_meals(早餐) 推荐 3 项
+2026-10-13 21:02:15,675 [INFO] recommend_meals(午餐) 推荐 3 项
+2026-10-13 21:02:15,675 [INFO] recommend_meals(晚餐) 推荐 3 项
+2026-10-13 21:02:15,681 [INFO] calc_priority 处理 3 条待办
+2026-10-13 21:02:15,681 [INFO] health_evaluate 评估: 低风险 (score=0.00)
+2026-10-13 21:02:15,681 [INFO] daily_summary 生成完成
+2026-10-13 21:02:15,681 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 21:02:15,681 [INFO] recommend_meals(早餐) 推荐 3 项
+2026-10-13 21:02:15,681 [INFO] recommend_meals(午餐) 推荐 3 项
+2026-10-13 21:02:15,681 [INFO] recommend_meals(晚餐) 推荐 3 项
+2026-10-13 21:02:15,681 [INFO] calc_priority 处理 3 条待办
+2026-10-13 21:02:15,681 [INFO] health_evaluate 评估: 低风险 (score=0.00)
+2026-10-13 21:02:15,682 [INFO] daily_summary 生成完成
+2026-10-13 21:02:15,682 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 21:02:15,682 [INFO] recommend_meals(早餐) 推荐 3 项
+2026-10-13 21:02:15,682 [INFO] recommend_meals(午餐) 推荐 3 项
+2026-10-13 21:02:15,682 [INFO] recommend_meals(晚餐) 推荐 3 项
+2026-10-13 21:02:15,682 [INFO] calc_priority 处理 3 条待办
+2026-10-13 21:02:15,682 [INFO] health_evaluate 评估: 低风险 (score=0.00)
+2026-10-13 21:02:15,682 [INFO] daily_summary 生成完成
+2026-10-13 21:02:15,682 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 21:02:15,682 [INFO] recommend_meals(早餐) 推荐 5 项
+2026-10-13 21:02:15,682 [INFO] recommend_meals(午餐) 推荐 5 项
+2026-10-13 21:02:15,683 [INFO] recommend_meals(晚餐) 推荐 5 项
+2026-10-13 21:02:15,683 [INFO] calc_priority 处理 3 条待办
+2026-10-13 21:02:15,683 [INFO] health_evaluate 评估: 高风险 (score=7.00)
+2026-10-13 21:02:15,683 [INFO] daily_summary 生成完成
+2026-10-13 21:03:19,037 [INFO] [--demo] 执行演示数据
+2026-10-13 21:03:19,038 [INFO] AGH注册工具: calc_priority
+2026-10-13 21:03:19,038 [INFO] AGH注册工具: health_evaluate
+2026-10-13 21:03:19,038 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 21:03:19,038 [INFO] recommend_meals(早餐) 推荐 3 项
+2026-10-13 21:03:19,038 [INFO] recommend_meals(午餐) 推荐 3 项
+2026-10-13 21:03:19,038 [INFO] recommend_meals(晚餐) 推荐 3 项
+2026-10-13 21:03:19,038 [INFO] health_evaluate 评估: 低风险 (score=0.00)
+2026-10-13 21:03:19,039 [INFO] daily_summary 生成完成
+2026-10-13 21:03:19,039 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 21:03:19,039 [INFO] recommend_meals(早餐) 推荐 3 项
+2026-10-13 21:03:19,039 [INFO] recommend_meals(午餐) 推荐 3 项
+2026-10-13 21:03:19,039 [INFO] recommend_meals(晚餐) 推荐 3 项
+2026-10-13 21:03:19,047 [INFO] calc_priority 处理 3 条待办
+2026-10-13 21:03:19,048 [INFO] health_evaluate 评估: 低风险 (score=0.00)
+2026-10-13 21:03:19,048 [INFO] daily_summary 生成完成
+2026-10-13 21:03:19,049 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 21:03:19,049 [INFO] recommend_meals(早餐) 推荐 3 项
+2026-10-13 21:03:19,049 [INFO] recommend_meals(午餐) 推荐 3 项
+2026-10-13 21:03:19,049 [INFO] recommend_meals(晚餐) 推荐 3 项
+2026-10-13 21:03:19,049 [INFO] calc_priority 处理 3 条待办
+2026-10-13 21:03:19,049 [INFO] health_evaluate 评估: 低风险 (score=0.00)
+2026-10-13 21:03:19,049 [INFO] daily_summary 生成完成
+2026-10-13 21:03:19,049 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 21:03:19,049 [INFO] recommend_meals(早餐) 推荐 3 项
+2026-10-13 21:03:19,049 [INFO] recommend_meals(午餐) 推荐 3 项
+2026-10-13 21:03:19,049 [INFO] recommend_meals(晚餐) 推荐 3 项
+2026-10-13 21:03:19,049 [INFO] calc_priority 处理 3 条待办
+2026-10-13 21:03:19,049 [INFO] health_evaluate 评估: 低风险 (score=0.00)
+2026-10-13 21:03:19,049 [INFO] daily_summary 生成完成
+2026-10-13 21:03:19,050 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 21:03:19,050 [INFO] recommend_meals(早餐) 推荐 5 项
+2026-10-13 21:03:19,050 [INFO] recommend_meals(午餐) 推荐 5 项
+2026-10-13 21:03:19,050 [INFO] recommend_meals(晚餐) 推荐 5 项
+2026-10-13 21:03:19,050 [INFO] calc_priority 处理 3 条待办
+2026-10-13 21:03:19,050 [INFO] health_evaluate 评估: 高风险 (score=7.00)
+2026-10-13 21:03:19,050 [INFO] daily_summary 生成完成
+2026-10-13 21:03:35,201 [INFO] [--check] 开始自检
+2026-10-13 21:03:35,209 [INFO] calc_priority 处理 2 条待办
+2026-10-13 21:03:35,210 [INFO] health_evaluate 评估: 低风险 (score=1.50)
+2026-10-13 21:03:35,210 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 21:03:35,210 [INFO] recommend_meals(早餐) 推荐 3 项
+2026-10-13 21:03:35,210 [INFO] daily_summary 生成完成
+2026-10-13 21:03:35,769 [INFO] calc_priority 处理 2 条待办
+2026-10-13 21:03:35,769 [INFO] health_evaluate 评估: 低风险 (score=1.50)
+2026-10-13 21:03:35,769 [INFO] generate_study_plan 生成 2 个学习项
+2026-10-13 21:03:35,769 [INFO] recommend_meals(早餐) 推荐 3 项
+2026-10-13 21:03:35,769 [INFO] daily_summary 生成完成
+2026-10-13 21:03:35,769 [INFO] calc_priority 处理 1 条待办
+2026-10-13 21:03:35,770 [INFO] health_evaluate 评估: 中风险 (score=3.00)
+2026-10-13 21:03:35,770 [INFO] health_evaluate 评估: 低风险 (score=1.50)
+2026-10-13 21:03:35,770 [INFO] recommend_meals(不存在的餐) 推荐 2 项
+2026-10-13 21:03:35,770 [INFO] calc_priority 处理 1 条待办
+2026-10-13 21:03:35,770 [INFO] generate_study_plan 生成 2 个学习项
